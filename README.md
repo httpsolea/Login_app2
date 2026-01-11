@@ -6,7 +6,7 @@ A new Flutter project.
 
 | Login Page | Sign Up Page |
 
-| ![Login](lib/assets/Screenshot_1768159513.png) | ![SignUp](lib/assets/Screenshot_1768159524.png) |
+| ![Login](assets/Screenshot_1768159513.png) | ![SignUp](assets/Screenshot_1768159524.png) |
 
 
 ## Getting Started
