@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Screenshots
+
+| Login Page | Sign Up Page |
+
+| ![Login](assets\Screenshot_1768159513.png) | ![SignUp](assets\Screenshot_1768159524.png) |
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
